@@ -19,14 +19,14 @@ body{
 .slider{
     position: relative;
     width: 100%;
-    height: 370px;
+    height: 450px;
     overflow: hidden;
 }
 
 .item{
     position: absolute;
     width: 200px;
-    height: 320px;
+    height: 400px;
     text-align: justify;
     background-color: #1d00209c;
     border-radius: 10px;
@@ -45,7 +45,7 @@ body{
 
 #log{
     width: 200px;
-    margin-top: 50px;
+    margin-top: 110px;
 }
 
 a{
@@ -81,7 +81,7 @@ button{
 }
 
 #dig{
-    height: 150px;
+    height: 190px;
     width: auto;
     display:block;
     margin:auto;
@@ -92,7 +92,7 @@ p{
     font-family: "Encode Sans Condensed", sans-serif;
     font-weight: 100;
     font-style: normal;
-    font-size: 9px;
+    font-size: 10.5px;
     margin-top: 5px;
 }
 
